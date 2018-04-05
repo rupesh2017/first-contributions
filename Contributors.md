@@ -1,4 +1,4 @@
-﻿- [Lian Thompson](https://github.com/lianthompson)
+- [Lian Thompson](https://github.com/lianthompson)
 - [Deny Purnama Ramadan](https://github.com/ramadandeny)
 - [Mughees Hafeez](https://github.com/mugheeshafeez)
 - [Johnson Ogwuru](https://github.com/ogwurujohnson)
@@ -3200,3 +3200,4 @@
 - [Nicholas-Halvorsen](https://github.com/nickrhalvorsen)
 - [Ed-Davis](https://github.com/Ed-Davis)
 - [TJ Park](https://github.com/tginx)
+- [Rupesh Kumar](https://github.com/rupesh2017)
